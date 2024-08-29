@@ -5,12 +5,19 @@
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
+DOMAIN-SUFFIX,haidan.video
+DOMAIN-SUFFIX,qicp.vip
+DOMAIN-SUFFIX,saic-gm.com
+DOMAIN-SUFFIX,insaic.com
+DOMAIN-SUFFIX,sgmlms.com
+
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
+IP-CIDR,112.64.135.13/32,no-resolve
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
