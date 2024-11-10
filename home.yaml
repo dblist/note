@@ -1,5 +1,5 @@
 proxy-providers:
-  Airport_01:
+  cherry:
     type: http
     interval: 1800
     health-check:
@@ -8,7 +8,7 @@ proxy-providers:
       interval: 300
     proxy: 🟢 直连
     url: "https://cherryvpn.net/link/BVojdeBxzJ8Yauiv78912788?sub=2"
-  Airport_02:
+  mitce:
     type: http
     interval: 1800
     health-check:
